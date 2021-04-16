@@ -1,5 +1,5 @@
-# include<stdio.h>
-# include<stdlib.h >
+#include<stdio.h>
+#include<stdlib.h >
 
 float abastece(float m,float posto_abst)
 {
